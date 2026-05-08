@@ -1,0 +1,82 @@
+body {
+    background-color: #e9e9e9f1;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 40px;
+}
+
+.contenedor {
+    width: 700px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #9252ab;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 1px solid #d9b4e6;
+    margin-bottom: 20px;
+}
+
+.caja {
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+}   
+
+.hoy {
+    background-color: #eef0fa;
+    border: 1px solid #c7cce8;
+}
+ 
+.metas {
+    background-color: #fff0f0;
+    border: 1px solid #f1bcbc;
+}
+
+.lecturas {
+    background-color: #eefcfc;
+    border: 1px solid #67d6d6;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.hoy h2 {
+    color: #1f3b8b;
+}
+ 
+.metas h2 {
+    color: #2f9ad6;
+}
+
+.lecturas h2 {
+    color: #2f9ad6;
+}
+
+p {
+    color: #555;
+    line-height: 1.7;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    color: #2c9b9b;
+    text-decoration: none;
+}
